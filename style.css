@@ -123,7 +123,8 @@ select:hover,
 .books-list {
     font-weight: 400;
     font-size: 16px;
-    padding-left: 20px;
+    padding: 0 20px; /* ✅ сверху и снизу 0, слева и справа 20px */
+
 }
 
 .label {
