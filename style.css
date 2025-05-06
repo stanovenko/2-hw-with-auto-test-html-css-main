@@ -18,11 +18,6 @@ body {
     /* 📍 Максимальная ширина для контейнера */
 }
 
-body {
-    font-family: "Inter", sans-serif;
-    color: rgb(48,48,48);
-}
-
 header {
     background-color: #2965F1;
     padding: 23px 0;
